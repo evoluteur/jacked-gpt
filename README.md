@@ -19,6 +19,12 @@ It aims at providing personalized workout routines, but could easily be forked t
 git clone https://github.com/evoluteur/jacked-gpt
 ```
 
+or use the [npm package](https://www.npmjs.com/package/jacked-gpt):
+
+```bash
+# To get the latest stable version, use npm from the command line.
+npm install jacked-gpt
+```
 
 In the jacked-gpt directory, use the command line to type the following:
 
