@@ -5,7 +5,7 @@
   "repository": "github:evoluteur/jacked-gpt",
   "description": "Jacked-GPT: Your Ultimate Fitness Companion",
   "main": "app.js",
-  "copyright": "(c) 2025 Olivier Giulieri & Phil Rosace",
+  "copyright": "(c) 2026 Olivier Giulieri & Phil Rosace",
   "author": "Olivier Giulieri (https://evoluteur.github.io/)",
   "scripts": {
     "start": "supervisor ./bin/www",

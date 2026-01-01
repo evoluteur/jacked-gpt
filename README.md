@@ -57,4 +57,4 @@ Configurations options are specified in the [config.js](https://github.com/evolu
 
 Jacked-GPT is released under the [MIT license](http://github.com/evoluteur/jacked-gpt/blob/main/LICENSE).
 
-Copyright (c) 2025 [Olivier Giulieri](https://evoluteur.github.io/) and [Phil Rosace](https://www.linkedin.com/in/philiprosace/).
+Copyright (c) 2026 [Olivier Giulieri](https://evoluteur.github.io/) and [Phil Rosace](https://www.linkedin.com/in/philiprosace/).

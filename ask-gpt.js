@@ -1,7 +1,7 @@
 /*!
  *  Jacked-GPT - An AI-powered fitness routine generator
  *  https://github.com/evoluteur/jacked-gpt
- *  (c) 2025 Olivier Giulieri & Phil Rosace
+ *  (c) 2026 Olivier Giulieri & Phil Rosace
  */
 import OpenAI from "openai";
 import videoKeys from "./videos.js";
