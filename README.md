@@ -6,7 +6,7 @@ Checkout the [live demo](https://jackedgpt-8eaf6b49c971.herokuapp.com/).
 
 ![screenshot](jacked-gpt.png)
 
-This project provides a simple web UI to gather user input and a NodeJS server generate a custom prompt for GPT.
+This project provides a simple (HTML and vanilla Javascript) web UI to gather user input and a (NodeJS) server to generate a custom prompt and send it to GPT.
 
 It aims at providing personalized workout routines, but could easily be forked to other purposes.
 
